@@ -1,1 +1,1 @@
-# Car-Price-Prediction
+# Water-quality-Prediction
